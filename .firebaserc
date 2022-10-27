@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "blackjack-c4c55"
+  },
+  "targets": {
+    "blackjack-c4c55": {
+      "hosting": {
+        "juego-blackjack": [
+          "blackjack-c4c55"
+        ]
+      }
+    }
+  }
+}
